@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class GradeThresholdChecker {
     public static void main(String[] args) {
 
